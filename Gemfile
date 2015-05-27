@@ -47,6 +47,7 @@ end
 gem 'foundation-rails'
 gem 'gibbon'
 gem 'google_drive'
+gem 'oauth2'
 gem 'high_voltage'
 gem 'simple_form'
 
